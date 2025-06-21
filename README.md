@@ -14,6 +14,9 @@
 
 ## 📷 Interfaz
 
+![image](https://github.com/user-attachments/assets/cf03fccc-d65c-4ee5-a989-b30472488165)
+
+
 # SerialTraceFox
 
 **SerialTraceFox** es una herramienta desarrollada en AutoHotkey v1.1 que permite gestionar archivos de log para equipos funcionales mediante su número de serie. Automatiza la búsqueda de resultados de prueba y permite generar archivos finales de tipo `PASS` o `FAIL` según la información seleccionada del historial.
