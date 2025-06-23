@@ -7,8 +7,8 @@
 - 🔎 Búsqueda de seriales dentro de archivos log desde una interfaz gráfica.
 - 📄 Muestra los últimos 5 resultados de cada serial.
 - ✅ Permite confirmar y generar un archivo limpio con estado `PASS` o `FAIL` .
-- ❌ También permite marcar como `FAIL`, incluyendo manejo especial para equipos en modo `DEBUG`.
-- 🔁 Conexión y subida automática del archivo final a un servidor de destino definido.
+- ✅ Permite un manejo especial para equipos en modo `DEBUG`.
+- 🔁 Conexión y subida automática de los archivos `PASS` o `FAIL` a un servidor definido por el usuario.
 - 🔒 Interfaz protegida contra errores comunes (serial vacío, modelo inválido, archivos inexistentes).
 - 🎨 Incluye una interfaz limpia y organizada para el usuario.
 
