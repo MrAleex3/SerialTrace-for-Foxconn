@@ -14,7 +14,8 @@
 
 ## 📷 Interfaz
 
-![image](https://github.com/user-attachments/assets/cf03fccc-d65c-4ee5-a989-b30472488165)
+![image](https://github.com/user-attachments/assets/7b650fae-5792-4395-806f-b033e7ba2c9d)
+
 
 
 ## 🧰 Requisitos
