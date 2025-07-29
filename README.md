@@ -26,7 +26,6 @@
 ## 🗂️ Estructura
 
 - `modelo.ini`: Contiene los modelos y sus rutas de entrada y salida.
-- `SerialTraceFox.ahk`: Script principal de la herramienta.
 - `temporal/`: Carpeta temporal generada automáticamente para manejar los archivos intermedios.
 
 ## 📝 Licencia
