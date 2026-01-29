@@ -29,7 +29,8 @@
 
 ## 📷 Interfaz
 
-<img width="702" height="387" alt="image" src="https://github.com/user-attachments/assets/cb71bf0b-e552-47db-ac77-2c32e6d82e00" />
+<img width="702" height="387" alt="image" src="https://github.com/user-attachments/assets/2b5612e1-fe9e-4ade-8f5e-57e615b2b18b" />
+
 
 <img width="812" height="382" alt="image" src="https://github.com/user-attachments/assets/e384bd69-781b-4312-8e2a-7ca28dd41c32" />
 
